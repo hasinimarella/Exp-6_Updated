@@ -71,6 +71,7 @@ contract PasswordlessAuth {
 ```
 
 # Expected Output:
+
 Users can register without a password.
 
 
@@ -91,3 +92,4 @@ Uses Ethereum's built-in cryptographic functions.
 Inspired by Web3 login solutions like MetaMask authentication.
 
 # RESULT: 
+Thus,the execution of the Passwordless Authentication Using Public - Private Key Cryptography has successfully executed.
