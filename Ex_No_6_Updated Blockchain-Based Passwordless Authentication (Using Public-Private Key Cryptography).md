@@ -83,6 +83,9 @@ The smart contract verifies signatures to confirm identity.
 
 
 # High-Level Overview:
+
+![alt text](image-1.png)
+![alt text](image.png)
 Eliminates password hacks & phishing attacks.
 
 
